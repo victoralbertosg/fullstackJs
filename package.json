@@ -1,10 +1,9 @@
 {
   "name": "fullstack",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev":"nodemon backend/index.js"
+    "dev": "nodemon backend/index.js"
   },
   "keywords": [],
   "author": "",
@@ -21,5 +20,14 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoralbertosg/fullstackJs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/victoralbertosg/fullstackJs/issues"
+  },
+  "homepage": "https://github.com/victoralbertosg/fullstackJs#readme",
+  "description": ""
 }
